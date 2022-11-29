@@ -12,7 +12,7 @@ THAT OD is a Overdrive pedal designed by dylan159
 AND
 
 
-[blog] (https://bentfishbowl.wixsite.com/electronics/post/that-overdrive)
+[blog](https://bentfishbowl.wixsite.com/electronics/post/that-overdrive)
 
 
 ## Gerbers information
