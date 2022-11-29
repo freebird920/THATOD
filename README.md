@@ -4,12 +4,9 @@
 THAT OD is a Overdrive pedal designed by dylan159
 
 ## Schematics and more information of this pedal
-<p>You can find the schematics and more informatin at: </p>
+You can find the schematics and more informatin at
 
 [freestompboxes.org "Type C. OD (reworked OCD)" thread](https://www.freestompboxes.org/viewtopic.php?p=289509#p289509)
-
-
-AND
 
 
 [Author's blog](https://bentfishbowl.wixsite.com/electronics/post/that-overdrive)
